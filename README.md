@@ -1,4 +1,5 @@
-Stick Hero Game
+**Stick Hero Game**
+
 This is a simple implementation of the Stick Hero game using Java and JavaFX. The game
 consists of a stick figure hero who must cross platforms of varying lengths. The player can
 control the length of the stick to bridge the gap between platforms and earn points. The game
@@ -20,4 +21,3 @@ and game over panel.
 Background: A separate class representing a background panel with a changing background.
 Images and Sounds
 The game includes various images and sounds stored in the "images" and "Sounds" directories.
-Make sure the file paths in the code are correct or update them as needed.
